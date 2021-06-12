@@ -1,3 +1,10 @@
+"""
+coinmarketcap.com web scraper
+Created on June 1 2021
+@author: Jack.M.Liu
+"""
+
+
 import pandas as pd
 import requests as rq
 from bs4 import BeautifulSoup
